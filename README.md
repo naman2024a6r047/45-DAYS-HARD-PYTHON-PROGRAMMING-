@@ -6,6 +6,6 @@ A 45-day coding challenge dedicated to mastering Python fundamentals, practicing
 2. Maintain a minimum of **1 commit per day** for 45 days straight.
 
 ### 📅 Progress Tracker:
-- [ ] Day 1: 
+- [X] Day 1: 
 - [ ] Day 2: 
 - [ ] Day 3:

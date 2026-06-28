@@ -1,0 +1,12 @@
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        nums.sort()
+        list2=[]
+        for i in range(len(nums)-1):
+            if nums[i]!=nums[i+1]:
+                list2.append(nums[i])
+            else:
+                pass
+        list2.append(nums[-1])
+        nums[:]=list2
+        return len(list2)

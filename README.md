@@ -40,19 +40,19 @@ A 45-day coding challenge dedicated to mastering Python fundamentals, practicing
 - [x] Day 25: 
 - [x] Day 26: 
 - [x] Day 27: 
-- [ ] Day 28: 
-- [ ] Day 29: 
-- [ ] Day 30: 
-- [ ] Day 31: 
-- [ ] Day 32: 
-- [ ] Day 33: 
-- [ ] Day 34: 
-- [ ] Day 35: 
-- [ ] Day 36: 
-- [ ] Day 37: 
-- [ ] Day 38: 
-- [ ] Day 39: 
-- [ ] Day 40: 
+- [x] Day 28: 
+- [x] Day 29: 
+- [x] Day 30: 
+- [x] Day 31: 
+- [x] Day 32: 
+- [x] Day 33: 
+- [x] Day 34: 
+- [x] Day 35: 
+- [x] Day 36: 
+- [x] Day 37: 
+- [x] Day 38: 
+- [x] Day 39: 
+- [x] Day 40: 
 - [ ] Day 41: 
 - [ ] Day 42: 
 - [ ] Day 43: 

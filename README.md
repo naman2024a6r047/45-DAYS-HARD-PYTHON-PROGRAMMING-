@@ -55,9 +55,9 @@ A 45-day coding challenge dedicated to mastering Python fundamentals, practicing
 - [x] Day 40: 
 - [x] Day 41: 
 - [x] Day 42: 
-- [ ] Day 43: 
-- [ ] Day 44: 
-- [ ] Day 45:
+- [x] Day 43: 
+- [x] Day 44: 
+- [x] Day 45:
 
 ## 🛠️ Tech & Tools
 * **Language:** Python 3.x
